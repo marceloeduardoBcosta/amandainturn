@@ -1,0 +1,25 @@
+
+
+OPÇÃO 1: Pelo Wi-Fi Local (MAIS FÁCIL) 🔗
+Se o celular está conectado no mesmo Wi-Fi do computador:
+
+No computador: Abra o arquivo index.html no navegador (pode deixar aberto)
+No celular: Abra o navegador e digite:
+Pronto! O site abre normalmente no celular 📱
+OPÇÃO 2: Compartilhar o Arquivo 💾
+Sem precisar de Wi-Fi:
+
+Compacte a pasta: amanda_inthurn_corretora.zip
+Envie pelo WhatsApp, email ou Telegram
+No celular, descompacte e abra o index.html
+OPÇÃO 3: Hospedar Online (RECOMENDADO) 🚀
+Para acessar de qualquer lugar, do computador ou celular:
+
+Opções grátis:
+
+Netlify (melhor para HTML)
+Vercel
+GitHub Pages
+Quer que eu te ajude a colocar online?
+
+14:23 05/01/2026
